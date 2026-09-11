@@ -1,0 +1,28 @@
+#######################################
+# Syntax Coloring Map for espdlx
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+TensorBase	KEYWORD1
+Model	KEYWORD1
+ImageTransformer	KEYWORD1
+MFCC	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+softmax	KEYWORD2
+transform	KEYWORD2
+process_frame	KEYWORD2
+test	KEYWORD2
+profile	KEYWORD2
+
+#######################################
+# Instances (KEYWORD2)
+#######################################
+
+#######################################
+# Constants (LITERAL1)
+#######################################
